@@ -14,11 +14,7 @@ This project will be successful when:
 
   3)Have the lowest RMSE score possible
 
-      c) Understanding the context
-HassConsult offers investment-grade developments all over the City. The developments have been conceptualized by their development team to be high quality assets using a data-driven approach in planning and design, that gears property for high rental returns and an escalated rate of capital growth.
-
-
-      d)Factors that increase the risk for hypothyroidism
+      c) Understanding the context: Factors that increase the risk for hypothyroidism
 Being a woman
 
 Are older than 60
